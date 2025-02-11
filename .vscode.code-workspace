@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.embeddedhtml": "html",
+			"ofcitestc": "c"
+		},
+		"liveServer.settings.port": 5501
+	}
+}
